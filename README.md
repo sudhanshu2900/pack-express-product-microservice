@@ -27,7 +27,7 @@ Pack Express Product Microservice is a Spring Boot application designed to handl
 
 * Clone the repository:
 ```
-git clone https://github.com/sudhanshu2900/pack-express-product-microservice.git
+git clone https://github.com/sudhanshu2900/pack-express-product-microservice-.git
 ```
 * Navigate to the project directory:
 ```
